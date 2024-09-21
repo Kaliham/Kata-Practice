@@ -1,4 +1,4 @@
-# Kata-Training
+# Kata-Practice
 
 ## Exercise 1
 
